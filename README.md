@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I was part of the Retail Analytics project led by Quantium's retail analytics team. This project aimed to provide actionable insights to optimize sales and customer engagement for a retail company. Our analysis included examining customer purchasing behavior for the Chip category and evaluating the impact of a store trial conducted in select stores.
+I acted as part of the Retail Analytics project led by Quantium's retail analytics team. This project aimed to provide actionable insights to optimize sales and customer engagement for a retail company. Our analysis included examining customer purchasing behavior for the Chip category and evaluating the impact of a store trial conducted in select stores.
 
 ## Task 1: Data Preparation and Customer Analytics
 
